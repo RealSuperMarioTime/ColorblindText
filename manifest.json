@@ -1,0 +1,9 @@
+{
+  "name": "ColorblindText",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Adds color-coded text identifiers to player names across overworld nameplates, meeting cards, alive lists, and chat bubbles for accessibility.",
+  "dependencies": [
+    "BepInEx-BepInExPack-6.0.0-be.793"
+  ]
+}
